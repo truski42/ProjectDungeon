@@ -27,4 +27,4 @@ You start the game in a minimalist menu where you have several options such as "
 The game contains 4 different lvl at each there are new obstacles as well as enemies
 
 ### Gameplay demo
-coming soon
+https://youtu.be/ntbd3cBYMKQ
