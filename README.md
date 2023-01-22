@@ -24,7 +24,8 @@ You start the game in a minimalist menu where you have several options such as "
 - *And many more*
 
 ## Install
-Open zip folder and unpack this, after that open StoryAboutJohn.exe
+Open zip folder and unpack this, after that open StoryAboutJohn.exe or go to itch.io :
+https://truski42.itch.io/storyjohn
 
 ### Levels
 The game contains 4 different lvl at each there are new obstacles as well as enemies
